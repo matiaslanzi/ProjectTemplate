@@ -10,6 +10,8 @@ void displayUsage(const std::string& programName) {
     std::cout << "  -o <output>   Specify the output file." << std::endl;
     std::cout << "  -v            Enable verbose mode." << std::endl;
     std::cout << "  -h            Show usage information." << std::endl;
+    std::cout << "Creates a directory structure for" << std::endl;
+    std::cout << "programming projects." << std::endl;
 }
 
 int main(int argc, char* argv[]) {
@@ -105,6 +107,10 @@ namespace fs = std::filesystem;
     fs::create_directory(projectPath + "/include/models");
     fs::create_directory(projectPath + "/include/views");
     fs::create_directory(projectPath + "/include/controllers");
+
+    // Create subfolders in build
+    fs::create_directory(projectPath + "/build/debug");
+    fs::create_directory(projectPath + "/build/release");
 
     std::cout << "Folder hierarchy created successfully!\n";
 
