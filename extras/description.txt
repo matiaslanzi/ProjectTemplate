@@ -1,0 +1,1 @@
+This folder can be used to store any additional files or resources that do not fit into the other categories but are still relevant to your project.

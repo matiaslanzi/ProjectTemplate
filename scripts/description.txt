@@ -1,0 +1,1 @@
+If your project requires any build scripts, deployment scripts, or automation scripts, you can place them in this folder.

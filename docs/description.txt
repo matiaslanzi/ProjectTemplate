@@ -1,0 +1,1 @@
+This folder is used to store documentation related to your project. It can include user manuals, API documentation, design documents, or any other relevant documentation.

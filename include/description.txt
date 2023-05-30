@@ -1,0 +1,1 @@
+This folder contains header files (.h or .hpp) that declare the interfaces and public API of your project. The header files provide a way to separate the public interface from the implementation details. It helps in promoting modularity and code reuse.

@@ -1,4 +1,4 @@
-OBJ_NAME = ExecutableName
+OBJ_NAME = projectdirector
 SRC_DIR = src
 SRC_FILES = $(wildcard $(SRC_DIR)/*.cpp) #Selects all, you can list one by one.
 BUILD_DIR = build/debug

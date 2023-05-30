@@ -1,0 +1,1 @@
+This folder contains all the source code files of your project. It's a good practice to separate your source files based on their functionality or purpose.

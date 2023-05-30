@@ -1,0 +1,1 @@
+If you're writing tests for your project, you can place them in this folder. It's common to have a separate directory for tests, allowing you to easily run and manage your test suite.

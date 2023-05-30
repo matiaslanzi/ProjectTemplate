@@ -1,0 +1,1 @@
+This folder is used to store any additional resources required by your project, such as configuration files, assets (images, sounds, etc.), or data files.

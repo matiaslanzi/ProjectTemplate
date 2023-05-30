@@ -12,6 +12,7 @@ void displayUsage(const std::string& programName) {
     std::cout << "  -h            Show usage information." << std::endl;
     std::cout << "Creates a directory structure for" << std::endl;
     std::cout << "programming projects." << std::endl;
+    std::cout << "Will add other layouts shortly." << std::endl;
 }
 
 int main(int argc, char* argv[]) {

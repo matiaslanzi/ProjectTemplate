@@ -1,0 +1,1 @@
+If your project requires external libraries or dependencies, you can place them in this folder. Each library can have its own subfolder, and the necessary files (headers, binaries, etc.) can be placed accordingly.

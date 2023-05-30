@@ -1,0 +1,1 @@
+This folder is used to store intermediate and final build artifacts generated during the build process. It typically includes object files, executable files, and any other generated files.
